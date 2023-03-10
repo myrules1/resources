@@ -1,0 +1,16 @@
+{
+    "config" : [
+        {
+            "network" : "admob",
+            
+            "admob_ban": "ca-app-pub-7539087638646987/3852598993",
+            "admob_native" : "ca-app-pub-7539087638646987/6985194644",
+            "admob_in": "ca-app-pub-7539087638646987/6095618953",
+            "admob_rewarded": "ca-app-pub-7539087638646987/9651720585",
+            
+            "ico": "https://tristichic-taxes.000webhostapp.com/officegirl.jpg",
+            
+            "game_link" : "https://html5.gamedistribution.com/rvvASMiM/6d86283457424ae68ed25da3b7e933e2/index.html?gdpr-tracking=0&gdpr-targeting=0&gdpr-third-party=0&gd_sdk_referrer_url=https%3A%2F%2Fgamedistribution.com%2Fgames%2Foffice-dress-up-games&gd_zone_config=eyJwYXJlbnRVUkwiOiJodHRwczovL2dhbWVkaXN0cmlidXRpb24uY29tL2dhbWVzL29mZmljZS1kcmVzcy11cC1nYW1lcyIsInBhcmVudERvbWFpbiI6ImdhbWVkaXN0cmlidXRpb24uY29tIiwidG9wRG9tYWluIjoiZ2FtZWRpc3RyaWJ1dGlvbi5jb20iLCJoYXNJbXByZXNzaW9uIjpmYWxzZSwibG9hZGVyRW5hYmxlZCI6dHJ1ZSwiaG9zdCI6Imh0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tIiwidmVyc2lvbiI6IjEuNS4xNiJ9"
+        }
+    ]
+}

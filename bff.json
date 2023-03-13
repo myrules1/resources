@@ -3,7 +3,6 @@
         {
             "network" : "admob",
             
-            "admob_int": "ca-app-pub-7539087638646987/6276248637",
             "admob_ban": "ca-app-pub-7539087638646987/8043474492",
             "admob_appopen": "ca-app-pub-7539087638646987/9117986663",
             "admob_native" : "ca-app-pub-7539087638646987/6985194644",

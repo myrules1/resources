@@ -1,0 +1,19 @@
+{
+    "config" : [
+        {
+            "network" : "admob",
+            
+            "admob_ban": "ca-app-pub-7539087638646987/9202413424",
+            "admob_appopen": "ca-app-pub-7539087638646987/1893934893",
+            "admob_native" : "ca-app-pub-7539087638646987/2445433388",
+            "admob_rewarded": "ca-app-pub-7539087638646987/5263168411",
+            
+            
+            
+            
+            "ico": "https://tristichic-taxes.000webhostapp.com/instadiva.jpg",
+            
+            "game_link" : "https://html5.gamedistribution.com/rvvASMiM/9a0800df78ba450a92f77b3cbd0ac998/index.html?gdpr-tracking=0&gdpr-targeting=0&gdpr-third-party=0&gd_sdk_referrer_url=https%3A%2F%2Fgamedistribution.com%2Fgames%2Finstadiva-nikke-dress-up-tutorial&gd_zone_config=eyJwYXJlbnRVUkwiOiJodHRwczovL2dhbWVkaXN0cmlidXRpb24uY29tL2dhbWVzL2luc3RhZGl2YS1uaWtrZS1kcmVzcy11cC10dXRvcmlhbCIsInBhcmVudERvbWFpbiI6ImdhbWVkaXN0cmlidXRpb24uY29tIiwidG9wRG9tYWluIjoiZ2FtZWRpc3RyaWJ1dGlvbi5jb20iLCJoYXNJbXByZXNzaW9uIjpmYWxzZSwibG9hZGVyRW5hYmxlZCI6dHJ1ZSwiaG9zdCI6Imh0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tIiwidmVyc2lvbiI6IjEuNS4xNiJ9"
+        }
+    ]
+}

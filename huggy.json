@@ -14,9 +14,9 @@
             "game_link3" : "https://html5.gamedistribution.com/rvvASMiM/aeaab94264ee4b02ab0de2462c477a2b/",
             "ico3": "https://tristichic-taxes.000webhostapp.com/freekick.jpg",
             "desc3": "Select between different team your favorite one You have attempts to pass the goalie and other to save your opponents kicksIts all in your hands and feet",
-            "admob_ban": "my.resources.MakeItMeme",
+            "packagename": "my.resources.MakeItMeme",
             "admob_native" : "ca-app-pub-3940256099942544/2247696110",
-            "packagename": "ca-app-pub-3940256099942544/6300978111",
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
             "admob_rewarded": "ca-app-pub-3940256099942544/5224354917"
         }
     ]

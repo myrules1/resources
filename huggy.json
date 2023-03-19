@@ -16,9 +16,7 @@
             "desc3": "Select between different team your favorite one You have attempts to pass the goalie and other to save your opponents kicksIts all in your hands and feet",
             "admob_ban": "ca-app-pub-3940256099942544/6300978111",
             "admob_native" : "ca-app-pub-3940256099942544/2247696110",
-            "admob_int": "ca-app-pub-3940256099942544/1033173712",
-            "packagename" : "my.resources.MakeItMeme",
-            "packageimage": "https://tristichic-taxes.000webhostapp.com/bff.jpg",
+            "packagename": "my.resources.MakeItMeme",
             "admob_rewarded": "ca-app-pub-3940256099942544/5224354917"
         }
     ]

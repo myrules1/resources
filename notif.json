@@ -2,7 +2,9 @@
 "notifications" : [
         {
             "packagename": "my.resources.MakeItMeme",
-            "packageimage": "https://tristichic-taxes.000webhostapp.com/meme.jpg"
+            "packageimage": "https://tristichic-taxes.000webhostapp.com/meme.jpg",
+            "title": "Fantasia Games",
+            "desc": "Make It MEME is out now, get it now for free and have infinite laughs"
         }
     ]
 }

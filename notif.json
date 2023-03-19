@@ -1,0 +1,8 @@
+{
+"notifications" : [
+        {
+            "packagename": "my.resources.MakeItMeme",
+            "packageimage": "https://tristichic-taxes.000webhostapp.com/meme.jpg"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "config" : [
+        {
+            "network" : "admob",
+            "game_link" : "https://html5.gamedistribution.com/rvvASMiM/6d86283457424ae68ed25da3b7e933e2/",
+            "ico": "https://tristichic-taxes.000webhostapp.com/03reb1ucjhrjeawk.jpg",
+            "desc": "Catch Huggy Wuggy! is a fun first person platform game in which you have to go through lots of hallways knocking out monsters until you catch the one and only Huggy Wuggy. In this free game on you will have to use your elastic hands to punch your enemies, reach buttons and open doors.",
+            "game_link1" : "https://html5.gamedistribution.com/rvvASMiM/754bc37d3b4244c3b7149c343ee60649/",
+            "ico1": "https://tristichic-taxes.000webhostapp.com/ninja.jpg",
+            "desc1": "One of the hottest mobile games of all time! Easy to pick up and play. Journey up a sheet of graph paper, perpetually jumping from one platform to the next, avoiding black holes, and blasting baddies with nose balls along the way. Laugh with delight as you blow past other players' actual score markers scribbled in the margins.",
+            "game_link2" : "https://html5.gamedistribution.com/rvvASMiM/d66a359e609043dd86b5e2418f131143/",
+            "ico2": "https://tristichic-taxes.000webhostapp.com/island.jpg",
+            "desc2": "Non-stop action game where you have to chase Huggy Wuggy through various trials and face dangerous opponents. There are also many skins and unique bosses waiting for you!",
+            "game_link3" : "https://html5.gamedistribution.com/rvvASMiM/aeaab94264ee4b02ab0de2462c477a2b/",
+            "ico3": "https://tristichic-taxes.000webhostapp.com/freekick.jpg",
+            "desc3": "Select between different team your favorite one You have attempts to pass the goalie and other to save your opponents kicksIts all in your hands and feet",
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+            "admob_native" : "ca-app-pub-3940256099942544/2247696110",
+            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+            "admob_rewarded": "ca-app-pub-3940256099942544/5224354917"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+"notifications" : [
+        {
+            "packagename": "my.resources.nikke",
+            "packageimage": "https://github.com/myrules1/resources/raw/main/dressing/nikkee.jpeg",
+            "title": "Fantasia Games",
+            "desc": "It's time to dress up Nikki in this fun dress up game. You're lucky today!!"
+        }
+    ]
+}

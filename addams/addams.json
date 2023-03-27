@@ -1,0 +1,23 @@
+{
+    "config" : [
+        {
+            "network" : "admob",
+            "game_link" : "https://html5.gamedistribution.com/rvvASMiM/ca8c3ab47c70419d88df255235eecbb6/",
+            "ico": "https://github.com/myrules1/resources/raw/main/addams/addamstop.jpeg",
+            "desc": "A goth-girl has very important on Wednesday - she arrives at the new Academy. She did not suspect that she would fall into a nightmare, the abode of chaos and mysterious riddles. She will definitely like it there. But before the trip, the gothic princess needs to update her wardrobe while staying true to style",
+            "game_link1" : "https://html5.gamedistribution.com/rvvASMiM/5d9f70d49ddc408a845fe48749844034/",
+            "ico1": "https://github.com/myrules1/resources/raw/main/dressing/cutee.jpeg",
+            "desc1": "Welcome to Little Lily St.Patrick’s Day Photo Shoot. St. Patrick’s Day is just around the corner, it’s time to celebrate the rich culture and heritage of Ireland!",
+            "game_link2" : "https://html5.gamedistribution.com/rvvASMiM/50f2949c48a244548d543bc9bd89292d/",
+            "ico2": "https://github.com/myrules1/resources/raw/main/dressing/film.jpeg",
+            "desc2": "Welcome to the Celebrity Sundance Film Festival. Celebrity invited to the Sundance festival event. They are excited to participate in this event. Browse her wardrobe and pick cute outfits and costumes for the event. Help them and have fun!",
+            "game_link3" : "https://html5.gamedistribution.com/rvvASMiM/9b141b133419409c9ba69ce4c28e58cc/",
+            "ico3": "https://github.com/myrules1/resources/raw/main/dressing/pirategirl.jpeg",
+            "desc3": "Let's help our pirates girls dress well with suitable ornaments and swords, because they are all getting ready for the treasure hunting. You need to help them to find the treasure box with the help of magnifying glasses. Enjoy the great dressup games and hidden object games in the",
+            "admob_ban": "ca-app-pub-7539087638646987/2232748182",
+            "admob_native" : "ca-app-pub-7539087638646987/1333765331",
+            "admob_int": "ca-app-pub-7539087638646987/5980421504",
+            "admob_rewarded": "ca-app-pub-7539087638646987/9153950579"
+        }
+    ]
+}

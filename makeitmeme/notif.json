@@ -1,0 +1,10 @@
+{
+"notifications" : [
+        {
+            "packagename": "simo.apps.liquid",
+            "packageimage": "https://github.com/myrules1/resources/raw/main/makeitmeme/liquid.png",
+            "title": "Fantasia Games",
+            "desc": "Liquid Bubble Sort is a fun brain-training puzzle game. TRY IT NOW !"
+        }
+    ]
+}
